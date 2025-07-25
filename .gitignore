@@ -1,0 +1,58 @@
+## Ignore Visual Studio temporary files, build results, and user-generated files
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# Visual Studio Files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated Files
+*.g.cs
+*.g.i.cs
+Generated\ Files/
+
+# DotCover
+*.dotCover
+
+# Publish
+*.publish.xml
+
+# Logs & DB
+*.log
+*.dbmdl
+*.sdf
+*.mdf
+*.ldf
+*.sqlite
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Rider & JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Others
+*.tmp
+*.bak
+*.cache
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore folders for your project specifically (optional, adjust if needed)
+Invoice Management/bin/
+Invoice Management/obj/
